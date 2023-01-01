@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-google-errorprone-annotations/tags/2.1.0,google-errorprone-annotations,00d44505bd89001d1c33976a28d259a2;https://github.com/dandar3/android-google-errorprone-annotations;https://github.com/dandar3/android-google-errorprone-annotations;branches;tags;trunk;true;3e4afbf7-eab2-231f-1b57-ce57b7db7bff;https://github.com/dandar3/android-google-errorprone-annotations;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-errorprone-annotations/tags/2.1.1,google-errorprone-annotations,00d44505bd89001d1c33976a28d259a2;https://github.com/dandar3/android-google-errorprone-annotations;https://github.com/dandar3/android-google-errorprone-annotations;branches;tags;trunk;true;3e4afbf7-eab2-231f-1b57-ce57b7db7bff;https://github.com/dandar3/android-google-errorprone-annotations;;false;;;0"/>
 </provider>
 </psf>

@@ -16,6 +16,6 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.errorprone.annotations"
-    android:versionCode="234"
-    android:versionName="2.3.4">
+    android:versionCode="240"
+    android:versionName="2.4.0">
 </manifest>
